@@ -1,0 +1,10 @@
+{
+  "domain": "freeds_mqtt",
+  "name": "FreeDS MQTT",
+  "version": "1.0.1",
+  "documentation": "https://github.com/tuusuario/ha-freeds-mqtt",
+  "requirements": [],
+  "dependencies": ["mqtt"],
+  "codeowners": ["@tuusuario"],
+  "config_flow": true
+}
